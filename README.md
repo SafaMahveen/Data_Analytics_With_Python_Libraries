@@ -7,10 +7,10 @@ Author - Safa Mahveen
 This repository contains Jupyter Notebooks for analyzing datasets related to healthcare and retail. The analyses include data cleaning, exploration, visualization, and insights derived from the data.
 
 ## Notebooks
-1. **Doctor Visits Analysis.ipynb**
+1. **Doctor_Visits_Analysis.ipynb**
    - This notebook focuses on analyzing doctor visit data. It includes steps for data cleaning, handling missing values, and visualizing trends in doctor visits.
 
-2. **Superstore Analysis.ipynb**
+2. **super_store Analysis.ipynb**
    - This notebook analyzes sales data from a retail superstore. It provides insights into sales performance, customer behavior, and product trends through various visualizations.
 
 ## Installation
